@@ -6,9 +6,10 @@ h1 {
   color: blue;
 }
 
-h2 {
-  color: cornflowerblue;
-}
+ .entry {
+   font-family:'Times New Roman', Times, serif;
+   color: rosybrown;
+ }
 
 h3 {
   color: dodgerblue;
