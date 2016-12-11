@@ -14,3 +14,13 @@ h1 {
 h3 {
   color: dodgerblue;
 }
+
+.dark {
+  background-color: black;
+  color: lightgray;
+}
+
+#dark {
+  background-color: black;
+  color: white;
+}
